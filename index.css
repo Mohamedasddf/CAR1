@@ -196,6 +196,7 @@ header {
 
 .text p {
   margin: 0.5rem 0 1rem;
+  font-size: 20px;
 }
 
 .app-stores img {
